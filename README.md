@@ -6,7 +6,7 @@ Student Introduction prework project for CodePath's iOS 102 course.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/PninX2H.gif" width=200>
+![](https://imgur.com/a/PninX2H.gif)
 
 ### Required Features
 
